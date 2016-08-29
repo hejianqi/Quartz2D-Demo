@@ -16,6 +16,10 @@
 		0535F7751D6ECDA300CA9F94 /* Quartz2D_DemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0535F7741D6ECDA300CA9F94 /* Quartz2D_DemoTests.m */; };
 		0535F7801D6ECDA300CA9F94 /* Quartz2D_DemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0535F77F1D6ECDA300CA9F94 /* Quartz2D_DemoUITests.m */; };
 		0535F78F1D6ECFAC00CA9F94 /* CustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0535F78E1D6ECFAC00CA9F94 /* CustomView.m */; };
+		055575F41D73D2E400D2D4D7 /* AViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 055575F31D73D2E400D2D4D7 /* AViewController.m */; };
+		055575F71D7408F600D2D4D7 /* MyLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 055575F61D7408F600D2D4D7 /* MyLayer.m */; };
+		055575FA1D741BE200D2D4D7 /* CustomView7.m in Sources */ = {isa = PBXBuildFile; fileRef = 055575F91D741BE200D2D4D7 /* CustomView7.m */; };
+		055575FD1D74279400D2D4D7 /* CViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 055575FC1D74279400D2D4D7 /* CViewController.m */; };
 		0569E7CB1D6FDCBD0041190B /* CustomView2.m in Sources */ = {isa = PBXBuildFile; fileRef = 0569E7CA1D6FDCBD0041190B /* CustomView2.m */; };
 		0569E7CE1D7021C80041190B /* CustomView3.m in Sources */ = {isa = PBXBuildFile; fileRef = 0569E7CD1D7021C80041190B /* CustomView3.m */; };
 		0569E7D01D70253D0041190B /* 动态1 copy@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0569E7CF1D70253D0041190B /* 动态1 copy@2x.png */; };
@@ -60,6 +64,14 @@
 		0535F7811D6ECDA300CA9F94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0535F78D1D6ECFAC00CA9F94 /* CustomView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomView.h; sourceTree = "<group>"; };
 		0535F78E1D6ECFAC00CA9F94 /* CustomView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomView.m; sourceTree = "<group>"; };
+		055575F21D73D2E400D2D4D7 /* AViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AViewController.h; sourceTree = "<group>"; };
+		055575F31D73D2E400D2D4D7 /* AViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AViewController.m; sourceTree = "<group>"; };
+		055575F51D7408F600D2D4D7 /* MyLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyLayer.h; sourceTree = "<group>"; };
+		055575F61D7408F600D2D4D7 /* MyLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyLayer.m; sourceTree = "<group>"; };
+		055575F81D741BE200D2D4D7 /* CustomView7.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomView7.h; sourceTree = "<group>"; };
+		055575F91D741BE200D2D4D7 /* CustomView7.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomView7.m; sourceTree = "<group>"; };
+		055575FB1D74279400D2D4D7 /* CViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CViewController.h; sourceTree = "<group>"; };
+		055575FC1D74279400D2D4D7 /* CViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CViewController.m; sourceTree = "<group>"; };
 		0569E7C91D6FDCBD0041190B /* CustomView2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomView2.h; sourceTree = "<group>"; };
 		0569E7CA1D6FDCBD0041190B /* CustomView2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomView2.m; sourceTree = "<group>"; };
 		0569E7CC1D7021C80041190B /* CustomView3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomView3.h; sourceTree = "<group>"; };
@@ -124,6 +136,10 @@
 				0535F75E1D6ECDA300CA9F94 /* AppDelegate.m */,
 				0535F7601D6ECDA300CA9F94 /* ViewController.h */,
 				0535F7611D6ECDA300CA9F94 /* ViewController.m */,
+				055575F21D73D2E400D2D4D7 /* AViewController.h */,
+				055575F31D73D2E400D2D4D7 /* AViewController.m */,
+				055575FB1D74279400D2D4D7 /* CViewController.h */,
+				055575FC1D74279400D2D4D7 /* CViewController.m */,
 				0535F78D1D6ECFAC00CA9F94 /* CustomView.h */,
 				0535F78E1D6ECFAC00CA9F94 /* CustomView.m */,
 				0569E7C91D6FDCBD0041190B /* CustomView2.h */,
@@ -134,6 +150,10 @@
 				0569E7D21D7030FC0041190B /* CustomView4.m */,
 				0569E7D41D7035860041190B /* CustomView5.h */,
 				0569E7D51D7035860041190B /* CustomView5.m */,
+				055575F51D7408F600D2D4D7 /* MyLayer.h */,
+				055575F61D7408F600D2D4D7 /* MyLayer.m */,
+				055575F81D741BE200D2D4D7 /* CustomView7.h */,
+				055575F91D741BE200D2D4D7 /* CustomView7.m */,
 				0569E7CF1D70253D0041190B /* 动态1 copy@2x.png */,
 				0569E7D71D7035F20041190B /* 礼物盒3@2x.png */,
 				0535F7631D6ECDA300CA9F94 /* Main.storyboard */,
@@ -304,12 +324,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				0535F7621D6ECDA300CA9F94 /* ViewController.m in Sources */,
+				055575F71D7408F600D2D4D7 /* MyLayer.m in Sources */,
+				055575FD1D74279400D2D4D7 /* CViewController.m in Sources */,
 				0535F78F1D6ECFAC00CA9F94 /* CustomView.m in Sources */,
 				0535F75F1D6ECDA300CA9F94 /* AppDelegate.m in Sources */,
 				0569E7D61D7035860041190B /* CustomView5.m in Sources */,
 				0535F75C1D6ECDA300CA9F94 /* main.m in Sources */,
+				055575F41D73D2E400D2D4D7 /* AViewController.m in Sources */,
 				0569E7CB1D6FDCBD0041190B /* CustomView2.m in Sources */,
 				0569E7D31D7030FC0041190B /* CustomView4.m in Sources */,
+				055575FA1D741BE200D2D4D7 /* CustomView7.m in Sources */,
 				0569E7CE1D7021C80041190B /* CustomView3.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
